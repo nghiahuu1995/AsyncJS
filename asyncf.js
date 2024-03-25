@@ -1,5 +1,6 @@
 const API_KEY = "Enter your API key here";
-
+// API key can be found here https://www.weatherapi.com/ //
+// You need to create an account, your API key should be in your My Account //
 const container = document.createElement("div");
 const button = document.createElement("button");
 const cities = ["New York", "France", "Tokyo", "Ha Noi", "London"];
